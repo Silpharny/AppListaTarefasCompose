@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864391545226",
+    "project_id": "listatarefakotlin",
+    "storage_bucket": "listatarefakotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864391545226:android:dfcfa14724956558c34873",
+        "android_client_info": {
+          "package_name": "com.example.listadetarefacompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_ZojekU6MnfcUPgKp-ni4-k_ma-kN9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
